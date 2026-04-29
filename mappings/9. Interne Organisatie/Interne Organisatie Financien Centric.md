@@ -1,4 +1,4 @@
-# Centric - Interne Organisatie | Financiën
+# Centric Interne Organisatie Financien
 
 Centric heeft de GGM‑mapping voor Centric Financiën afgerond en stelt deze kosteloos beschikbaar aan de GGM‑community. Hiermee dragen we actief bij aan de Common‑Ground‑doelstelling om gemeentelijke data uniformer en beter uitwisselbaar te maken.
 
